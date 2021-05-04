@@ -1,2 +1,6 @@
 # work1
-for subject Development of mobile applications for Android
+Для "Development of mobile applications for Android"
+В чём заключается работа:
+1. Создать 6-страничный сайт для свадебного салона, который предлагает аксессуары, платья и информацию о дизайнерах
+2. Анализ конкурентов (анализ конкурентов.png)
+3. Стратегия продвижения (стратегия продвижения.png)
